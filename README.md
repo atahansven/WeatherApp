@@ -18,6 +18,6 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## App Preview
-![Alt text](/ss1.png "Preview")
+![Alt text](/ss1.PNG "Preview")
 
-![Alt text](/ss2.png "Preview")
+![Alt text](/ss2.PNG "Preview")
